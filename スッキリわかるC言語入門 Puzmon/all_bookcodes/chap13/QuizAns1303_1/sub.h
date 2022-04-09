@@ -1,1 +1,0 @@
-int createRand(int max);
