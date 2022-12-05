@@ -1,15 +1,1 @@
-﻿  add.cpp
-  delete.cpp
-C:\kouichi\c\Person登録\Person登録\delete.cpp(21,56): warning C4267: '初期化中': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
-C:\kouichi\c\Person登録\Person登録\delete.cpp(11,6): warning C4101: 'i': ローカル変数は 1 度も使われていません。
-  edit.cpp
-C:\kouichi\c\Person登録\Person登録\edit.cpp(21,56): warning C4267: '初期化中': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
-C:\kouichi\c\Person登録\Person登録\edit.cpp(9,6): warning C4101: 'i': ローカル変数は 1 度も使われていません。
-  input.cpp
-  menu.cpp
-  read.cpp
-C:\kouichi\c\Person登録\Person登録\read.cpp(18,56): warning C4267: '初期化中': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
-  Reidai1.cpp
-C:\kouichi\c\Person登録\Person登録\Reidai1.cpp(7,9): warning C4101: 'p': ローカル変数は 1 度も使われていません。
-  コードを生成中...
-  Person登録.vcxproj -> C:\kouichi\c\Person登録\x64\Debug\Person登録.exe
+﻿  Person登録.vcxproj -> C:\kouichi\C\Person登録\x64\Debug\Person登録.exe
