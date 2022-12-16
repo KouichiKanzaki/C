@@ -1,1 +1,0 @@
-void a2(void);
